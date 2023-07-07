@@ -1,0 +1,13 @@
+[
+    {
+      "type": "mysql",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "username": "root",
+      "password": "",   // 你的数据库密码
+      "database": "",   // 你的数据库
+      "synchronize": false,
+      "entities": ["entities/*.js"]
+    }
+  ]
+  
